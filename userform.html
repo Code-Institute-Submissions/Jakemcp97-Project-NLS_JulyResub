@@ -1,0 +1,46 @@
+<!DOCTYPE html> 
+<html>
+
+	<head>
+        <!--- head containing all neccesary metadata and our site title --->
+		<meta charset="UTF-8">
+		<meta name="keywords" content="HTML, CSS, Logistics, Problem Solving">
+		<meta name="description" content="North Louth Services LTD provide an enthusiastic and infallible approach to the world of logistics and more, beyond delivery we also install, demonstrate provide full training.">
+		<meta name="author" content="Jake McParland">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>North Louth Services</title>
+		<link rel=stylesheet href="index.css">
+	</head>
+
+	<body>
+	<!---Heading and navigation table--->
+	<header>
+		<div id="navbar">
+			<a href="homepage.html">Home</a>
+			<a href="capabilities.html">About NLS</a>
+			<a href="userform.html">Apply for a quote</a>
+		</div>
+		<img id="titleimg" src="Nlstitle.jpg" alt="title image">
+	</header>
+	<!---form to fill out regarding quote-->
+	<form id="quoteapp">
+		<label for="fname">First name:</label>
+		<input id="fname" type="text">	
+		<label for="lname">Last name:</label>
+		<input id="lname" type="text"> 
+		<br>
+		<label for="phone">Phone number:</label>
+		<input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}">
+		<br>
+		<label for="email">Email address:</label>
+		<input id="email" type="email">
+		<br>
+		<label for="textbox">Please enter the details of your idea:</label><br>
+		<textarea id="textbox" rows="20" cols="150"></textarea>
+		<br>
+		<input type="submit">
+	</form>
+	
+
+	<footer>NLS copyright 2022</footer>
+	</body>
