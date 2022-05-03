@@ -1,0 +1,71 @@
+body{
+	background-color:white;
+	font-style:courier;
+}
+#navbar{
+	overflow: hidden;
+	background-color: #333;
+	position: fixed; /* Set the navbar to fixed position */
+	top: 0; /* Position the navbar at the top of the page */
+	width: 110%; /* Full width */
+	padding-left: 0px;
+}
+#navbar a {
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
+header{
+	font-style:courier;
+	border: 5px groove red;
+	background-color:white;
+}
+#titleimg{
+	width:60%;
+	object-fit: contain;
+	padding-left: 20%;
+}
+#navbar a:hover{
+	color:red;
+}
+#filler{
+	border: 4px ridge #FF0012;
+	padding-right:15px;
+}
+#sprinter{
+	width: 100%;
+	height: 100%;
+	object-fit:contain;
+}
+#description{
+	border: 4px ridge #FF0012;
+	padding-right:15px;
+	font-size: large;
+	font-style:courier;
+}
+#map{
+	border: 4px ridge #FF0012;
+	padding-right:15px;
+	font-size: large;
+	font-style:courier;
+	float:bottom;
+}
+h2{
+	text-decoration: underline black;
+}
+iframe{
+	padding-left:25%;
+}
+footer{
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #333;
+    height: auto;
+    width: 100vw;
+    padding-top: 40px;
+    color: #fff;
+}
