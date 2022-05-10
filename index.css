@@ -5,9 +5,9 @@ body{
 #navbar{
 	overflow: hidden;
 	background-color: #333;
-	position: fixed; /* Set the navbar to fixed position */
-	top: 0; /* Position the navbar at the top of the page */
-	width: 110%; /* Full width */
+	position: fixed; 
+	top: 0;
+	width: 110%;
 	padding-left: 0px;
 }
 #navbar a {
@@ -68,4 +68,18 @@ footer{
     width: 100vw;
     padding-top: 40px;
     color: #fff;
+}
+#dkoffice{
+	display: inline;
+	object-fit: contain;
+}
+#europe{
+	width:40%;
+	display: inline;
+}
+#imap{
+	display: inline;
+	width:20%;
+	height:200px;
+	border: 0px;
 }
