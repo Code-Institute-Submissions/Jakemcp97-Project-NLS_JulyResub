@@ -86,3 +86,7 @@ footer{
 	font-size: large;
 	text-align: center;
 }
+.footerbox{
+	display: inline-block;
+	padding-left: 15px;
+}
