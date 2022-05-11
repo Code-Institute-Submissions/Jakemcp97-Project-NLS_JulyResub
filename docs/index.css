@@ -1,6 +1,5 @@
 body{
 	background-color:white;
-	font-style:courier;
 }
 #navbar{
 	overflow: hidden;
@@ -19,7 +18,6 @@ body{
 	text-decoration: none;
   }
 header{
-	font-style:courier;
 	border: 5px groove red;
 	background-color:white;
 }
@@ -44,14 +42,11 @@ header{
 	border: 4px ridge #FF0012;
 	padding-right:15px;
 	font-size: large;
-	font-style:courier;
 }
 #map{
 	border: 4px ridge #FF0012;
 	padding-right:15px;
 	font-size: large;
-	font-style:courier;
-	float:bottom;
 }
 h2{
 	text-decoration: underline black;
@@ -89,6 +84,5 @@ footer{
 	border: 4px ridge #FF0012;
 	padding-right:15px;
 	font-size: large;
-	font-style:courier;
 	text-align: center;
 }
