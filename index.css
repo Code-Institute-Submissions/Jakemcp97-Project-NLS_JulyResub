@@ -79,7 +79,16 @@ footer{
 }
 #imap{
 	display: inline;
-	width:20%;
-	height:200px;
-	border: 0px;
+	width:55%;
+	height:auto;
+	padding-top: 5px;
+	padding-left: 10px;
+	border:0px;
+}
+#qform{
+	border: 4px ridge #FF0012;
+	padding-right:15px;
+	font-size: large;
+	font-style:courier;
+	text-align: center;
 }
