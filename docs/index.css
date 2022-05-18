@@ -68,15 +68,10 @@ footer{
 	display: inline;
 	object-fit: contain;
 }
-#europe{
-	width:40%;
-	display: inline;
-}
 #imap{
 	display: inline;
-	width:55%;
+	width:auto;
 	height:auto;
-	padding-top: 5px;
 	padding-left: 10px;
 	border:0px;
 }
