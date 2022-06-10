@@ -99,3 +99,14 @@ footer{
 	padding: .5px;
 	border-radius: 4px;
 }
+@media screen and (min-width: 600px){
+	header{
+		width:100%;
+	}
+	body{
+		width:100%;
+	}
+	footer{
+		width:100%;
+	}
+}
