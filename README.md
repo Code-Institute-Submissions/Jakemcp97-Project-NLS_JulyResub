@@ -8,8 +8,10 @@ I have selected this company as my project material because i have worked there 
 This website is aimed at users looking for a logistics or installation solution, more specifically in the realm of the food service industry. I have hoped to design a website that conveys the companies general purpose on the home page, more specific possibilities on the capabilities page and a form on the user form page to allow the user to submit their request for a quote.
 
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+User Stories: 
+-Customer seeking a logistics solution, navigates from home page to userform, submits their request to the website.
+-User browsing the web, enters the website and understands from the home page and capabilities page that this website is for a company based around logistics problem solving.
+-user trying to understand North louth services purpose, navigates through home page and capabilities page, decides whether the company meets their needs or not. 
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
