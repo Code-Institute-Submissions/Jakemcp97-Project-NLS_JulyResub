@@ -8,7 +8,7 @@ I have selected this company as my project material because i have worked there 
 This website is aimed at users looking for a logistics or installation solution, more specifically in the realm of the food service industry. I have hoped to design a website that conveys the companies general purpose on the home page, more specific possibilities on the capabilities page and a form on the user form page to allow the user to submit their request for a quote. As you can see from the image above, the current build has deviated from my original old school pen and paper plan, to accomodate for more in depth UX.
 
 
-User Stories: 
+## User Stories: 
 -Customer seeking a logistics solution, navigates from home page to userform, submits their request to the website.
 -User browsing the web, enters the website and understands from the home page and capabilities page that this website is for a company based around logistics problem solving.
 -user trying to understand North louth services purpose, navigates through home page and capabilities page, decides whether the company meets their needs or not. 
@@ -44,12 +44,24 @@ Cascading style sheets is a language used to add style, shape and color to the w
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+1. Homepage interactive map:
+    1. Go to the index.html page. 
+    2. Scroll to the bottom of the page, try to zoom in and move the map around. 
+    3. Refresh and confirm it resets position. 
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+2. Navigation bar and back to top button: 
+    1. Go to index.html.
+    2. using the nav bar, navigate through the capabilities and userform pages. 
+    3. scroll to the bottom of each page and use the "top" button in the lower right, ensuring it returns you to the nav bar.
 
-1. Contact form:
-    1. Go to the "Contact Us" page
+3. Interactive videos:
+    1. Go to capabilities.html
+    2. Confirm autoplay is off on the 3 iframe videos. 
+    3. Click on each of the iframe videos and confirm they play on interact. 
+    4. Click on each video again and confirm you can pause them. 
+
+1. User form:
+    1. Go to the userform.html page. 
     2. Try to submit the empty form and verify that an error message about the required fields appears
     3. Try to submit the form with an invalid email address and verify that a relevant error message appears
     4. Try to submit the form with all inputs valid and verify that a success message appears.
