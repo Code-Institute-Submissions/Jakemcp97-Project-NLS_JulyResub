@@ -33,11 +33,11 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+-[HTML]
+Hyper text markup language used for building the websites bones so to speak. 
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-
+-[CSS]
+Cascading style sheets is a language used to add style, shape and color to the website. 
 
 ## Testing
 
