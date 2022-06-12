@@ -1,4 +1,4 @@
-![NLS lighthouse test](lighthouse.PNG)
+![NLS lighthouse test](media/lighthouse.PNG)
 # Project-NLS
 a website about north louth services, a local company in County Louth, ireland. 
 I have selected this company as my project material because i have worked there for approximately 12 years and have enough knowledge on the company to avoid researching it and focusing more time on my coding. 
