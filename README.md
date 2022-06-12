@@ -17,19 +17,16 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 ## Features
 
--Navigation Bar:
--Interactive map Iframe:
--Footer: 
--Interactive video Iframe:
--User form:
+-Navigation Bar: A simple static navigation bar to allow the user to access all the websites pages. 
+
+-Interactive map Iframe: An Iframe containing a google maps extension showing the location of the related company, allows the user to interact and look around the map and nearby areas. 
+
+-Footer: A Static footer containing information on the company, and contact information. 
+
+-Interactive video Iframe: Iframes containing videos related to the company, allows user to play and pause the video as well as control the audio levels. 
+
+-User form: A form which allows the user to submit information to the website to be processed into a quote, including a full name, email address, phone number and a text box for their request. 
  
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 - Another feature idea
