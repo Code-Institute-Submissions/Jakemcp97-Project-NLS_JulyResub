@@ -29,7 +29,8 @@ This section is also where you would share links to any wireframes, mockups, dia
  
 
 ### Features Left to Implement
-- Another feature idea
+- Some javascipt features for animation, pop ups and redirects would be a great addition. 
+- A more interactive map feature allowing the user to plot a route. 
 
 ## Technologies Used
 
