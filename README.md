@@ -72,14 +72,11 @@ i discovered a small error in the code while testing, there was a simple image l
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+To deploy the site i used Github pages, following githubs guide for pages set up available at https://docs.github.com/en/pages/quickstart. I launched with an existing repository so skipped the inital setup. I did not realise i was running my main project out of a branch on github so this was recently amended. 
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+My development version is now the 'master' branch in the project repository, there have been several changes made from this version based on well needed criticism with the current version now nested in the 'Main' branch of the repository. 
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+If you would like to test the site locally, Using a pull request, Download the project to your PC and arrange the files and folders as they are in the project and launch the index.html page using your preferred web browser.
 
 
 ## Credits
