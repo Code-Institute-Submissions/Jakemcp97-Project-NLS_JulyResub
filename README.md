@@ -80,12 +80,20 @@ If you would like to test the site locally, Using a pull request, Download the p
 
 
 ## Credits
-
+Youtube - video content and embed code
+Code institute - HTML and CSS 
+Google maps - Map iframe and embed code
+Google images - Images
+Canva.com - Creation of title image
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- The videos for the capabilities page were found at the following links on : 
+Video 1 - https://www.youtube.com/embed/r1pl5vlTOEg
+Video 2 - https://www.youtube.com/embed/OZj7aX6mNqs?start=6
+Video 3 - https://www.youtube.com/embed/VFBn6C2z04g?start=9
 
 ### Media
-- The photos used in this site were obtained from ...
+- The photos used in this site were obtained from google images.
+- The title image was created using Canva.com.
 
 ### Acknowledgements
 
