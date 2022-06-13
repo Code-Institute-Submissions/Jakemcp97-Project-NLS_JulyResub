@@ -41,8 +41,7 @@ Hyper text markup language used for building the websites bones so to speak.
 Cascading style sheets is a language used to add style, shape and color to the website. 
 
 ## Testing
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+Below are some use cases i tested the sight with: 
 
 1. Homepage interactive map:
     1. Go to the index.html page. 
@@ -70,6 +69,8 @@ Site seems to work well on firefox, chrome and opera GX. Using chrome developer 
 
 i discovered a small error in the code while testing, there was a simple image linking error occuring in the HTML which has since been solved. 
 
+i encountered a viewport overflow issue which was linked to width issues between parent and child elements that i dug into and worked with until i solved the problem. 
+
 ## Deployment
 
 To deploy the site i used Github pages, following githubs guide for pages set up available at https://docs.github.com/en/pages/quickstart. I launched with an existing repository so skipped the inital setup. I did not realise i was running my main project out of a branch on github so this was recently amended. 
@@ -85,6 +86,8 @@ Code institute - HTML and CSS
 Google maps - Map iframe and embed code
 Google images - Images
 Canva.com - Creation of title image
+w3chools.com - extra resources and study
+stackoverflow - problem solving
 ### Content
 - The videos for the capabilities page were found at the following links on : 
 Video 1 - https://www.youtube.com/embed/r1pl5vlTOEg
