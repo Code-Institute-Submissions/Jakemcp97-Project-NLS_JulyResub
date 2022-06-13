@@ -1,10 +1,10 @@
-![NLS lighthouse test](media/lighthouse.PNG)
+![NLS lighthouse test](docs/media/lighthouse.PNG)
 # Project-NLS
 a website about north louth services, a local company in County Louth, ireland. 
 I have selected this company as my project material because i have worked there for approximately 12 years and have enough knowledge on the company to avoid researching it and focusing more time on my coding. 
 
 ## UX
- ![Wireframe mockup](media/nls-wf.jpg)
+ ![Wireframe mockup](docs/media/nls-wf.jpg)
 This website is aimed at users looking for a logistics or installation solution, more specifically in the realm of the food service industry. I have hoped to design a website that conveys the companies general purpose on the home page, more specific possibilities on the capabilities page and a form on the user form page to allow the user to submit their request for a quote. As you can see from the image above, the current build has deviated from my original old school pen and paper plan, to accomodate for more in depth UX.
 
 
