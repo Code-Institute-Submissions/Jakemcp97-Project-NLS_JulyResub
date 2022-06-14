@@ -41,6 +41,11 @@ Hyper text markup language used for building the websites bones so to speak.
 Cascading style sheets is a language used to add style, shape and color to the website. 
 
 ## Testing
+All HTML pages passed without major issues in the w3schools HTML validator. 
+
+The CSS page passed in the jigsaw validator. 
+
+
 Below are some use cases i tested the sight with: 
 
 1. Homepage interactive map:
