@@ -20,15 +20,19 @@ This section is also where you would share links to any wireframes, mockups, dia
 ## Features
 
 -Navigation Bar: A simple static navigation bar to allow the user to access all the websites pages. 
+![navbar image](assets/images/NLSnavbar.JPG)
 
 -Interactive map Iframe: An Iframe containing a google maps extension showing the location of the related company, allows the user to interact and look around the map and nearby areas. 
+![map image](assets/images/nlsmap.JPG)
 
 -Footer: A Static footer containing information on the company, and contact information. 
+![footer image](assets/images/footer.JPG)
 
 -Interactive video Iframe: Iframes containing videos related to the company, allows user to play and pause the video as well as control the audio levels. 
+![video screenshot](assets/images/video.JPG)
 
 -User form: A form which allows the user to submit information to the website to be processed into a quote, including a full name, email address, phone number and a text box for their request. 
- 
+ ![form image](assets/images/form.JPG)
 
 ### Features Left to Implement
 - Some javascipt features for animation, pop ups and redirects would be a great addition. 
