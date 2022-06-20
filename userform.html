@@ -30,19 +30,19 @@
 	<div id="qform">
 	<form id="quoteapp">
 		<label for="fname">First name:</label>
-		<input id="fname" type="text">
+		<input id="fname" type="text" required>
 		<br>
 		<label for="lname">Last name:</label>
-		<input id="lname" type="text"> 
+		<input id="lname" type="text" required> 
 		<br>
 		<label for="phone">Phone number:</label>
-		<input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}">
+		<input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
 		<br>
-		<label for="email">Email address:</label>
+		<label for="email">Email address:</label required>
 		<input id="email" type="email">
 		<br>
 		<label for="textbox">Please enter the details of your request:</label><br>
-		<textarea id="textbox" rows="20" cols="30"></textarea>
+		<textarea id="textbox" rows="20" cols="30"></textarea required>
 		<br>
 		<input type="submit">
 	</form>
